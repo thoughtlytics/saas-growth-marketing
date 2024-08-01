@@ -1,2 +1,2 @@
-# organic-saas-growth
-Organic strategies and framework for early-stage B2B Sass growth
+# saas-growth-strategies
+Growth strategies and framework for early-stage B2B SasS.
