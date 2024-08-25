@@ -1,4 +1,4 @@
-# saas-growth-strategies
+# Early-stage B2B SaaS Growth Marketing
 **Growth strategies and framework for early-stage B2B SasS growth.**
 
 This guide applies only to early-stage SaaS businesses. The requirements of the growth stage and beyond companies are different.
