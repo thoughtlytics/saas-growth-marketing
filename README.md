@@ -12,4 +12,4 @@ This guide applies only to early-stage SaaS businesses. The requirements of the 
 Resources:
 1. [How to design an early-stage SaaS growth strategy](https://www.thoughtlytics.com/newsletter/how-to-design-a-saas-growth-strategy)
 2. [Templates: SaaS growth strategy OS](https://www.thoughtlytics.com/products/saas-growth-strategy-os)
-[3. A collection of proven SaaS growth strategies](https://www.thoughtlytics.com/products/saas-growth-strategies-hub)
+3. [3. A collection of proven SaaS growth strategies](https://www.thoughtlytics.com/products/saas-growth-strategies-hub)
